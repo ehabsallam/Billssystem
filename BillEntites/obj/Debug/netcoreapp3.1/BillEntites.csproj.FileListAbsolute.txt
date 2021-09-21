@@ -1,0 +1,13 @@
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\bin\Debug\netcoreapp3.1\BillEntites.deps.json
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\bin\Debug\netcoreapp3.1\BillEntites.runtimeconfig.json
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\bin\Debug\netcoreapp3.1\BillEntites.runtimeconfig.dev.json
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\bin\Debug\netcoreapp3.1\BillEntites.dll
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\bin\Debug\netcoreapp3.1\BillEntites.pdb
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.csproj.AssemblyReference.cache
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.AssemblyInfoInputs.cache
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.AssemblyInfo.cs
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.csproj.CoreCompileInputs.cache
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.dll
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.pdb
+C:\Users\Ehab1\Source\Repos\Billssystem\BillEntites\obj\Debug\netcoreapp3.1\BillEntites.genruntimeconfig.cache
